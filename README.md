@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malika-auma-o&label=Profile%20views&color=0e75b6&style=flat" alt="malika-auma-o" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malika-auma-o" alt="malika-auma-o" /></a> </p>
-
 - 🔭 I’m currently working on my [MVP-PROJECT-MEME](https://github.com/Malika-Auma-O/MVP-PROJECT-MEME)
 
 - 🌱 I’m currently learning **Angular and Wordpress**
@@ -18,6 +16,8 @@
 - 📫 How to reach me **malikaomar@yahoo.com**
 
 - 📄 Know about my experiences [https://tan-katee-6.tiiny.site/](https://tan-katee-6.tiiny.site/)
+- 
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malika-auma-o" alt="malika-auma-o" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
