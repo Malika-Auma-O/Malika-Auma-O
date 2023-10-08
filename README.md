@@ -1,6 +1,6 @@
 ![MasterHead](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80)
 <h1 align="center">Hi there👋, my name is Malika Auma Omwayi</h1>
-<p>I am a full-stack web developer who began a thrilling journey diving deep into the MERN stack. From the nuances of MongoDB to the dynamism of React, each step sharpened my skills. Now, having wrapped up my formal training, I'm all geared up to tackle real-world challenges and craft seamless web solutions. Eager to connect, collaborate, and contribute!</p>
+<p align="center">I am a full-stack web developer who began a thrilling journey diving deep into the MERN stack. From the nuances of MongoDB to the dynamism of React, each step sharpened my skills. Now, having wrapped up my formal training, I'm all geared up to tackle real-world challenges and craft seamless web solutions. Eager to connect, collaborate, and contribute!</p>
 <img align="right" alt="woman coding" width "400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRiMW1ybnZoeXVxOWxkYmFhdThsN2gzOHFwYWdzOHhtYThydzJ0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malika-auma-o&label=Profile%20views&color=0e75b6&style=flat" alt="malika-auma-o" /> </p>
